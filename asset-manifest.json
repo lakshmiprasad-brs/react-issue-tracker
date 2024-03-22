@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-issue-tracker/static/css/main.4be9dcaa.css",
+    "main.js": "/react-issue-tracker/static/js/main.ed44afe8.js",
+    "static/js/453.1870656b.chunk.js": "/react-issue-tracker/static/js/453.1870656b.chunk.js",
+    "static/media/BG.png": "/react-issue-tracker/static/media/BG.0805d1c579b3eb137695.png",
+    "index.html": "/react-issue-tracker/index.html",
+    "main.4be9dcaa.css.map": "/react-issue-tracker/static/css/main.4be9dcaa.css.map",
+    "main.ed44afe8.js.map": "/react-issue-tracker/static/js/main.ed44afe8.js.map",
+    "453.1870656b.chunk.js.map": "/react-issue-tracker/static/js/453.1870656b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4be9dcaa.css",
+    "static/js/main.ed44afe8.js"
+  ]
+}
